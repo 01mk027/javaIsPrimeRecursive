@@ -1,0 +1,4 @@
+## Introduction and purpose
+This project is developed for Java101 course which is organized by <a href="https://patika.dev">patika.dev</a>. Aim of this program to count numbers up or down according to some rules.
+## Brief Explanation
+Firstly, a number which is positive is expected to be entered via keyboard, because homework documentation is arranged based on positive number entrance. After that, because of entered number is positive, entered number is decreased by 5 till number is being 0 or below. When number is equal to or below 0, decrement argument multiplies with -1. (Remind the rule of (-)x(-)=(+)). Then process is inversed and number is started to increased by 5, until number will equate to its previous value. This process is performed via recursive functions.
